@@ -1,0 +1,311 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background: white;
+}
+.container{
+    margin-left: 75px;
+    width: 1350px;
+    height: 1200px;
+}
+.container > .microsoft{
+    margin-left: 12px;
+    color: grey;
+    font-size: 20px;
+    text-decoration: none;
+    padding: 18px;
+}
+.container > .microsoft > b{
+    position: relative;
+    top: -5px;
+}
+.container > .microsoft > img{
+    margin-top: 13px;
+    margin-left: -23px;
+    width: 25px;
+}
+.container > .link{
+    position: relative;
+    top: -5px;
+    color: grey;
+    text-decoration: none;
+    padding: 8px;
+    font-size: 14px;
+}
+.container > .link1{
+    position: relative;
+    top: -5px;
+    color: rgb(105, 105, 105);
+    text-decoration: none;
+    padding: 18px;
+    font-size: 14px;
+}
+.container > img{
+    padding-top: 13px;
+    width: 100%;
+    height: 650px; 
+}
+.container > .xbox{
+    margin: 60px 0 0 633px;
+}
+.container > .yazi0 > a{
+    color: #800000;
+    font-size: 22px;
+    margin: 80px 0 0 628px;
+    text-decoration: none;
+}
+.container > .microsofticon{
+    margin: -110px 0 0 420px;
+}
+.container > .yazi1 > a{
+    color: #800000;
+    font-size: 22px;
+    margin: 0 0 0 390px;
+    text-decoration: none;
+}
+.container > .windowsicon{
+    margin: -110px 0 0 820px;
+}
+.container > .yazi2 > a{
+    color: #800000;
+    font-size: 22px;
+    margin: 0 0 0 805px;
+    text-decoration: none;
+}
+.container > .gamepass{
+    width: 300px;
+    height: 320px;
+}
+.container > .gamepass > img{
+    width: 300px;
+    height: 150px;
+}
+.container > .gamepass > b{
+    font-size: 21px;
+}
+.container > .gamepass > a{
+    font-size: 18px;
+    color: #800000;
+    text-decoration: none;
+    transition: all 0.3s ease;
+}
+.container > .gamepass{
+    margin: 60px 0 0 0;
+}
+.container > .edge{
+    width: 300px;
+    height: 320px;
+}
+.container > .edge > img{
+    width: 300px;
+    height: 150px;
+}
+.container > .edge > b{
+    font-size: 21px;
+}
+.container > .edge > a{
+    font-size: 18px;
+    color: #800000;
+    text-decoration: none;
+}
+.container > .edge{
+    margin: -320px 0 0 350px;
+}
+.container > .onedrive{
+    width: 300px;
+    height: 320px;
+}
+.container > .onedrive > img{
+    width: 300px;
+    height: 150px;
+}
+.container > .onedrive > b{
+    font-size: 21px;
+}
+.container > .onedrive > a{
+    font-size: 18px;
+    color: #800000;
+    text-decoration: none;
+}
+.container > .onedrive{
+    margin: -320px 0 0 700px;
+}
+.container > .onenote{
+    width: 300px;
+    height: 320px;
+}
+.container > .onenote > img{
+    width: 300px;
+    height: 150px;
+}
+.container > .onenote > b{
+    font-size: 21px;
+}
+.container > .onenote > a{
+    font-size: 18px;
+    color: #800000;
+    text-decoration: none;
+}
+.container > .onenote{
+    margin: -320px 0 0 1050px;
+}
+.container > .outlook{
+    margin: 70px 0 0 0;
+}
+.container > .outlook > img{
+    width: 1350px;
+    height: 462px;
+}
+.container > .officeler{
+    width: 300px;
+    height: 320px;
+}
+.container > .officeler > img{
+    width: 300px;
+    height: 150px;
+}
+.container > .officeler > b{
+    font-size: 21px;
+}
+.container > .officeler > a{
+    font-size: 18px;
+    color: #800000;
+    text-decoration: none;
+}
+.container > .officeler{
+    margin: 60px 0 0 0;
+}
+.container > .ortam{
+    width: 300px;
+    height: 320px;
+}
+.container > .ortam > img{
+    width: 300px;
+    height: 150px;
+}
+.container > .ortam > b{
+    font-size: 21px;
+}
+.container > .ortam > a{
+    font-size: 18px;
+    color: #800000;
+    text-decoration: none;
+}
+.container > .ortam{
+    margin: -320px 0 0 350px;
+}
+.container > .kubernetes{
+    width: 300px;
+    height: 320px;
+}
+.container > .kubernetes > img{
+    width: 300px;
+    height: 150px;
+}
+.container > .kubernetes > b{
+    font-size: 21px;
+}
+.container > .kubernetes > a{
+    font-size: 18px;
+    color: #800000;
+    text-decoration: none;
+}
+.container > .kubernetes{
+    margin: -320px 0 0 700px;
+}
+.container > .cloud{
+    width: 300px;
+    height: 320px;
+}
+.container > .cloud > img{
+    width: 300px;
+    height: 150px;
+}
+.container > .cloud > b{
+    font-size: 21px;
+}
+.container > .cloud > a{
+    font-size: 18px;
+    color: #800000;
+    text-decoration: none;
+}
+.container > .cloud{
+    margin: -320px 0 0 1050px;
+}
+.container > .medya{
+    margin: 65px 0 0 0;
+    font-size: 20px;
+    font-family:'Times New Roman', Times, serif;
+}
+.container > .iconlar > img{
+    margin: 0 5px 0 0;
+}
+.container > .iconlar{
+    margin: -30px 0 0 293px;
+}
+.conta{
+	max-width: 1170px;
+	margin:auto;
+}
+.row{
+	display: flex;
+	
+}
+ul{
+	list-style: none;
+}
+.footer{
+	background-color: #e2e2e2;
+    padding: 70px 0;
+}
+.footer-col{
+   width: 25%;
+   padding: 0 15px;
+}
+.footer-col h4{
+	font-size: 18px;
+	color: #000000;
+	text-transform: capitalize;
+	margin-bottom: 35px;
+	font-weight: 500;
+	position: relative;
+}
+.footer-col h4::before{
+	content: '';
+	position: absolute;
+	left:0;
+	bottom: -10px;
+	background-color: #000000;
+	height: 2px;
+	box-sizing: border-box;
+	width: 50px;
+}
+.footer-col ul li:not(:last-child){
+	margin-bottom: 10px;
+}
+.footer-col ul li a{
+	font-size: 16px;
+	text-transform: capitalize;
+	color: #000000;
+	text-decoration: none;
+	font-weight: 300;
+	color: #000000;
+	display: block;
+}
+.footer-col ul li a{
+	color: #000000;
+	padding-left: 8px;
+}
+.footer{
+    margin: 1100px 0 0 0;
+}
+.oturum > img{
+    width: 15px;
+    height: 15px;
+}
+.footer > p{
+    text-align: center;
+}
